@@ -1,0 +1,122 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: 0;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color: #191a1b;
+	font-family: 'Source Code Pro', 'Courier New', Courier, monospace;
+}
+
+.container {
+	width: 200px;
+	height: 200px;
+	background: #191a1b;
+	color: #48494b;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	position: relative;
+	border: #48494b;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 20px;
+}
+
+.counter {
+	color: #79a617;
+	font-size: 2.5em;
+	font-weight: bold;
+}
+
+.heading {
+	font-size: 2.5em;
+}
+
+.rules {
+	position: absolute;
+	color: #e7eae0;
+	bottom: 40px;
+	right: center;
+	font-size: 13px;
+}
+
+.press {
+	position: absolute;
+	color: #191a1b;
+	background-color: #48494b;
+	bottom: 70px;
+	right: center;
+	font-size: 13px;
+}
+
+.social {
+	position: absolute;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	bottom: 15px;
+	right: center;
+	font-size: 13px;
+}
+
+a {
+	color: #48494b;
+}
+
+.fa-github,
+.fa-envelope {
+	margin: 0px 10px 0px 10px;
+}
+
+.fa-github:hover {
+	color: #e7eae0;
+}
+
+.fa-envelope:hover {
+	color: #e7eae0;
+}
+
+button {
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	cursor: pointer;
+	font-size: 1.5em;
+	background: #191a1b;
+	color: #79a617;
+	border-radius: 10px;
+	border: #48494b;
+	border-width: 1px;
+	border-style: solid;
+}
+
+button:hover {
+	color: #191a1b;
+	background-color: #a61717;
+}
+
+.incr {
+	bottom: 0%;
+	right: -30%;
+}
+
+.decr {
+	bottom: 0%;
+	left: -30%;
+}
+
+@media screen and (max-width: 625px) {
+	.container,
+	.counter .heading button {
+		width: 50% !important;
+		height: 50% !important;
+		display: block !important;
+	}
+}
