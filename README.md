@@ -1,7 +1,5 @@
 ![](https://github.com/giovanniiapaolo/simple-counter/blob/main/assets/images/banner.PNG)
 
-<!-- # Simple counter -->
-
 ## About
 
 Simple counter made with HTML CSS and JavaScript.
@@ -25,16 +23,10 @@ If you encounter a bug or have a feature request, send me a message [here](mailt
 
 All of the contributors that have helped with implementing various features, adding themes, fixing bugs, and more.
 
-<!-- # Code of Conduct -->
-
-<!-- # Credits -->
-
 ### Support
 
 If you wish to support further development and feel extra awesome, you can do so [here](https://paypal.me/giovanniiapaolo).
 
 ### License
 
-The MIT License (MIT) - see [LICENSE.md](https://github.com/giovanniiapaolo/simple_counter/blob/main/LICENSE) for more details.
-
-<!-- Note -->
+The MIT License (MIT) - see [`LICENSE.md`](https://github.com/giovanniiapaolo/simple_counter/blob/main/LICENSE) for more details.
