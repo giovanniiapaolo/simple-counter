@@ -1,6 +1,7 @@
-<img alt="AppVeyor" src="https://img.shields.io/appveyor/build/gruntjs/grunt">
-
 ![](https://github.com/giovanniiapaolo/simple-counter/blob/main/assets/images/banner.PNG)
+
+<a href="https://github.com/giovanniiapaolo/simple-counter/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/giovanniiapaolo/simple-counter"></a>
+<a href="https://github.com/giovanniiapaolo/simple-counter/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/giovanniiapaolo/simple-counter"></a>
 
 ## About
 
