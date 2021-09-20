@@ -1,3 +1,5 @@
+![](https://github.com/giovanniiapaolo/simple-counter/blob/main/assets/images/banner.PNG) <br />
+
 <img align="left" alt="html" width="26px" src="https://github.com/github/explore/blob/main/topics/html/html.png" /> <img align="left" alt="html" width="26px" src="https://github.com/github/explore/blob/main/topics/css/css.png" /> <img align="left" alt="html" width="26px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" /> <br/>
 
 <!-- # Simple counter -->
