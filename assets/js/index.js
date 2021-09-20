@@ -14,11 +14,3 @@ decr.addEventListener('click', () => {
 	count--;
 	counter.innerHTML = count;
 });
-
-function colorChange() {
-	if (count < 0) {
-		zeroDisplay.style.color = 'red';
-	} else {
-		zeroDisplay.style.color = 'black';
-	}
-}
