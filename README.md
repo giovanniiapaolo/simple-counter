@@ -1,3 +1,5 @@
+<img alt="AppVeyor" src="https://img.shields.io/appveyor/build/gruntjs/grunt">
+
 ![](https://github.com/giovanniiapaolo/simple-counter/blob/main/assets/images/banner.PNG)
 
 ## About
