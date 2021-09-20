@@ -1,29 +1,27 @@
-![](https://github.com/giovanniiapaolo/simple-counter/blob/main/assets/images/banner.PNG) <br />
-
-<img align="left" alt="html" width="26px" src="https://github.com/github/explore/blob/main/topics/html/html.png" /> <img align="left" alt="html" width="26px" src="https://github.com/github/explore/blob/main/topics/css/css.png" /> <img align="left" alt="html" width="26px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" /> <br/>
+![](https://github.com/giovanniiapaolo/simple-counter/blob/main/assets/images/banner.PNG)
 
 <!-- # Simple counter -->
 
-# About
+## About
 
-Simple counter made with HTML, CSS and JavaScript.
+Simple counter made with HTML CSS and JavaScript.
 
-# Live demo
+## Live demo
 
 https://giovanniiapaolo.github.io/simple-counter/
 
-# Features
+### Features
 
 -   minimalistic design with no ads
 -   responsive
 -   dark theme
 -   and much more
 
-# Bug report or Feature request
+### Bug report or Feature request
 
-If you encounter a bug or have a feature request, send me a message here: giovanniiapaolo6@gmail.com
+If you encounter a bug or have a feature request, send me a message [here](mailto:giovanniiapaolo6@gmail.com).
 
-# Contribute
+### Contribute
 
 All of the contributors that have helped with implementing various features, adding themes, fixing bugs, and more.
 
@@ -31,12 +29,12 @@ All of the contributors that have helped with implementing various features, add
 
 <!-- # Credits -->
 
-# Support
+### Support
 
 If you wish to support further development and feel extra awesome, you can do so [here](https://paypal.me/giovanniiapaolo).
 
-# License
+### License
 
-<img alt="APM" src="https://img.shields.io/apm/l/vim-mode">
+The MIT License (MIT) - see [LICENSE.md](https://github.com/giovanniiapaolo/simple_counter/blob/main/LICENSE) for more details.
 
 <!-- Note -->
